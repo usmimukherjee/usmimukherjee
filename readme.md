@@ -33,7 +33,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
   
  :seedling: &emsp; Enjoy to research, programming and teaching <br/><br/>
  :mailbox: &emsp; Reach me anytime: usmimukherjee18@gmail.com<br/><br/>
