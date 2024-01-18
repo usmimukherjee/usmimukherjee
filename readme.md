@@ -2,7 +2,7 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="">Usmi Mukherjee</a></b>
+                <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b>
         </samp>
 </h3>
 
