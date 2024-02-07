@@ -33,7 +33,7 @@
 <p>
  <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
   
- :seedling: &emsp; Enjoy to research, programming, teaching and music<br/><br/>
+ :seedling: &emsp; Enjoy research, programming, teaching and music<br/><br/>
  :mailbox: &emsp; Reach me anytime: usmimukherjee18@gmail.com<br/><br/>
 
 </p>
