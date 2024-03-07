@@ -34,7 +34,7 @@
  <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
   
  :seedling: &emsp; Enjoy research, programming, teaching and music<br/><br/>
- :mailbox: &emsp; Reach me anytime: usmimukherjee18@gmail.com<br/><br/>
+ :mailbox: &emsp; Reach me anytime: usmi.mukherjee@dal.ca<br/><br/>
 
 </p>
 
