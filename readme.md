@@ -38,8 +38,6 @@
 
 </p>
 
-## Use To Code
-
 ## Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -54,7 +52,6 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Strapi](https://img.shields.io/badge/strapi-2E7EEA?style=for-the-badge&logo=strapi&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![VSCode](https://img.shields.io/badge/Visual_Studio-0078d7?style=for-the-badge&logo=visual%20studio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -92,19 +89,17 @@
   <a href="https://github.com/">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=&theme=radical&border=7F3FBF&background=0D1117" alt="Saif's GitHub streak"/>
   </a>
-</p>
+</p>-->
 
 <p align="center">
   <a href="https://github.com/">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=&theme=radical" alt="Usmi Mukherjee's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmimukherjee&theme=radical" alt="Usmi Mukherjee's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/"><img alt="Usmi Mukherjee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/"><img alt="Usmi Mukherjee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/"><img alt="Usmi Mukherjee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmimukherjee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/"><img alt="Usmi Mukherjee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmimukherjee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
-
-
-![Usmi Mukherjee's Graph](https://github-readme-activity-graph.vercel.app/graph?username=&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
+<!--![Usmi Mukherjee's Graph](https://github-readme-activity-graph.vercel.app/graph?username=&custom_title=Al%20Siam's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true) -->
