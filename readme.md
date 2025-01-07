@@ -39,7 +39,6 @@
 </p>
 
 
-<!---
 ## Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -56,9 +55,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 !1---[PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-<!
+
 ### Research
-<
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -67,14 +65,15 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
-<!--
+
+
+<!---
 <p align="center">
   <a href="https://github.com/">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=usmimukherjee&theme=radical" alt="Usmi Mukherjee's GitHub Contribution"/>
   </a>
 </p>
-
-<!---<a> 
+<a> 
     <a href="https://github.com/"><img alt="Usmi Mukherjee's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=usmimukherjee&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/"><img alt="Usmi Mukherjee's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=usmimukherjee&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
