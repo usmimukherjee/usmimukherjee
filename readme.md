@@ -14,7 +14,7 @@
      I am a PhD student from <b>India</b> studying at Dalhousie University at <a href="https://github.com/RAISEDAL">「 RAISE Lab」</a>
     <br>
     <br>
-        My Research Areas are - Software Engineering, NLP, Deeep Learning
+        My Research Areas are - Software Engineering, NLP, Deeep Learning and Simulation Modeling
   </samp>
 </p>
 
