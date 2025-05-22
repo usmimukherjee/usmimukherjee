@@ -2,11 +2,11 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b>
+                <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b> I do simulations in this simulated world!
         </samp>
 </h3>
 
-
+<!----
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Usmi+Mukherjee">「 Google Me 」</a>
@@ -38,7 +38,7 @@
 
 </p>
 
-
+--- !>
 ## Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
