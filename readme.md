@@ -2,11 +2,11 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b> I do simulations in this simulated world!
+                <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b> 
         </samp>
 </h3>
 
-<!----
+
 <p align="center"> 
   <samp>
     <a href="https://www.google.com/search?q=Usmi+Mukherjee">「 Google Me 」</a>
