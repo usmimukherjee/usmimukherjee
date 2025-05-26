@@ -33,7 +33,7 @@
 <p>
  <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
   
- :seedling: &emsp; I enjoy running (<a href="[https://github.com/RAISEDAL](https://www.strava.com/athletes/104032528)">Strava</a>) and music<br/><br/>
+ :seedling: &emsp; I enjoy running <a href="https://www.strava.com/athletes/104032528">Strava</a> and music<br/><br/>
  :mailbox: &emsp; Reach me anytime: usmi.mukherjee@dal.ca<br/><br/>
 
 </p>
