@@ -33,7 +33,7 @@
 <p>
  <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
   
- :seedling: &emsp; Enjoy research, programming, teaching and music<br/><br/>
+ :seedling: &emsp; I enjoy running (Stalk my ![strava](https://www.strava.com/athletes/104032528)) and music<br/><br/>
  :mailbox: &emsp; Reach me anytime: usmi.mukherjee@dal.ca<br/><br/>
 
 </p>
