@@ -1,43 +1,37 @@
-
-<!-- Intro  -->
+<!-- Intro -->
 <h3 align="center">
-        <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b> 
-        </samp>
+  <samp>
+    👋 Hey there! I'm <b><a target="_blank" href="https://usmimukherjee.github.io/">Usmi Mukherjee</a></b>
+  </samp>
 </h3>
 
-
-<p align="center"> 
+<p align="center">
   <samp>
-    <a href="https://www.google.com/search?q=Usmi+Mukherjee">「 Google Me 」</a>
-    <br>
-     I am a PhD student from <b>India</b> studying at Dalhousie University at <a href="https://github.com/RAISEDAL">「 RAISE Lab」</a>
-    <br>
-    <br>
-        My Research Areas are - Software Engineering, NLP, Deeep Learning and Simulation Modeling
+    <a href="https://www.google.com/search?q=Usmi+Mukherjee">Google Me</a><br>
+    PhD Student from 🇮🇳 India | Researcher at <a href="https://github.com/RAISEDAL">RAISE Lab, Dalhousie University</a><br><br>
+    <strong>Research Interests:</strong> Software Engineering, Natural Language Processing, Deep Learning, and Simulation Modeling
   </samp>
 </p>
 
 <p align="center">
- <a href="https://www.linkedin.com/in/usmi-mukherjee" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""/>
- </a>
- <a href="https://twitter.com/MukherjeeUsmi" target="_blank">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
- </a>
-</p>
-<br />
-
- # About me
- 
-<p>
- <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
-  
- :seedling: &emsp; I enjoy running (<a href="https://www.strava.com/athletes/104032528">Check out my Strava</a>) and music<br/><br/>
- :mailbox: &emsp; Reach me anytime: usmi.mukherjee@dal.ca<br/><br/>
-
+  <a href="https://www.linkedin.com/in/usmi-mukherjee" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/MukherjeeUsmi" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
 </p>
 
+---
+
+## 🌱 About Me
+
+<img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
+
+- 🏃 I love running – [Check out my Strava](https://www.strava.com/athletes/104032528)  
+- 🎵 Music keeps me sane 
+</p>
+<!--
 ## Dev
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
