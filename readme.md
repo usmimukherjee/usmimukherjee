@@ -18,10 +18,3 @@
 </p>
 <br />
 
- # About me
-<p>
- <img align="right" width="350" src="/assets/coder.gif" alt="Coding gif" />
- :seedling: &emsp; I enjoy running (<a href="https://www.strava.com/athletes/104032528">Check out my Strava</a>) and music<br/><br/>
- :mailbox: &emsp; Email me at: usmi.mukherjee@dal.ca<br/><br/>
-</p>
-
