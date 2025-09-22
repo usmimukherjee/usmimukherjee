@@ -8,7 +8,6 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://www.google.com/search?q=Usmi+Mukherjee">「 Google Me 」</a>
     <br>
      I am a PhD student from <b>India</b> studying at Dalhousie University at <a href="https://github.com/RAISEDAL">「 RAISE Lab」</a>
     <br>
