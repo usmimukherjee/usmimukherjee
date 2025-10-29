@@ -12,7 +12,7 @@
      I am a PhD student from <b>India</b> studying at Dalhousie University at <a href="https://github.com/RAISEDAL">「 RAISE Lab」</a>
     <br>
     <br>
-        My Research Areas are - Software Engineering, NLP, and Simulation Modelling
+        My Research Interests are - Software Engineering, AI4SE, Simulation Modelling and NLP
   </samp>
 </p>
 <br />
